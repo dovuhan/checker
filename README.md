@@ -35,15 +35,8 @@ Uygulama, Windows, macOS ve Linux platformlarında çalıştırılabilir.
 * Python 3.6 veya üzeri
 * requests kütüphanesi
 
-## İletişim
 
-Herhangi bir sorun veya öneriniz varsa, lütfen [GitHub](https://github.com/example/check_account_app) sayfasına gidin.
-
-## Lisans
-
-Uygulama, MIT Lisansı altında lisanslanmıştır.
-
-## İngilizce
+## English
 
 This Python application allows you to check a list of accounts through an API. The application features a hacker-themed interface and allows you to import combolists and proxies as .txt files.
 
@@ -63,7 +56,7 @@ This Python application allows you to check a list of accounts through an API. T
 5. To run the application, run the following command in your command line:
 
 ```
-python check_account.py
+python checker.py
 ```
 
 6. When the application opens, enter the paths to the combolist and proxy files.
@@ -79,14 +72,6 @@ The application can be run on Windows, macOS, and Linux platforms.
 
 * Python 3.6 or higher
 * requests library
-
-## Contact
-
-If you have any issues or suggestions, please visit the [GitHub](https://github.com/example/check_account_app) page.
-
-## License
-
-The application is licensed under the MIT License.
 
 
 ## Русская версия
@@ -109,7 +94,7 @@ The application is licensed under the MIT License.
 5. Чтобы запустить приложение, выполните следующую команду в командной строке:
 
 ```
-python check_account.py
+python checker.py
 ```
 
 6. Когда приложение откроется, введите пути к файлам комболист и прокси.
@@ -126,10 +111,3 @@ python check_account.py
 * Python 3.6 или выше
 * Библиотека requests
 
-## Контакты
-
-Если у вас возникли какие-либо проблемы или предложения, посетите страницу [GitHub](https://github.com/example/check_account_app).
-
-## Лицензия
-
-Приложение распространяется по лицензии MIT.
